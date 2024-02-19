@@ -1,0 +1,3 @@
+libtmux==0.31.0.post0
+psutil==5.9.8
+tmux-mpi @ git+https://github.com/wrs20/tmux-mpi@3d5d534d22eb79921797583d003b8c3ed830f0de
